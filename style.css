@@ -1,0 +1,20 @@
+body{
+    text-align: center;
+    background: linear-gradient(#eeaeca 0%, #94bbe9 100%);
+    background-repeat: no-repeat;
+        
+}
+
+h1{
+    text-shadow:2px 2px #E1BEE7;
+    font-size:60px;
+    font-family:'Montserrat', sans-serif;
+}
+
+p{
+    font-family: 'Montserrat', sans-serif;
+}
+
+#h2{
+    font-family: 'Montserrat',sans-serif;
+}
